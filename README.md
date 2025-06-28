@@ -47,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
+## String
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
