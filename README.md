@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3830-find-closest-person](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3830-find-closest-person) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
