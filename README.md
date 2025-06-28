@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3903-inverse-coin-change](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3879-find-minimum-log-transportation-cost) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Counting
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
+## Brainteaser
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
