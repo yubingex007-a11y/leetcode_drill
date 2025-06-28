@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Sorting
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Stack
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Simulation
+|  |
+| ------- |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
 <!---LeetCode Topics End-->
