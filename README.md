@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3903-inverse-coin-change](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3830-find-closest-person](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3830-find-closest-person) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3879-find-minimum-log-transportation-cost) |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
