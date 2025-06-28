@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3903-inverse-coin-change](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
