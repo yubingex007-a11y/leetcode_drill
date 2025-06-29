@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3885-count-special-triplets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3903-inverse-coin-change](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3885-count-special-triplets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3885-count-special-triplets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3885-count-special-triplets) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
