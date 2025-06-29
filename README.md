@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3903-inverse-coin-change](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3903-inverse-coin-change) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Counting Sort
 |  |
 | ------- |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 <!---LeetCode Topics End-->
