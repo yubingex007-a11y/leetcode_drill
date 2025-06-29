@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/0518-coin-change-ii) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Sorting
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Two Pointers
 |  |
