@@ -4,7 +4,7 @@ public:
         int index =0;
         long long ans =0;
         vector<bool> vis(values.size());
-        while(index < values.size() && !vis[index]) {
+        while(index >=0 && index < values.size() && !vis[index]) {
             vis[index] = true;
             if(instructions[index][0] == 'j') {
                 
