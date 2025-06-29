@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/0518-coin-change-ii) |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
+## Two Pointers
+|  |
+| ------- |
+| [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 <!---LeetCode Topics End-->
