@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0518-coin-change-ii](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/0518-coin-change-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3738-make-array-non-decreasing](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3738-make-array-non-decreasing) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [3738-make-array-non-decreasing](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3738-make-array-non-decreasing) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3738-make-array-non-decreasing](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3738-make-array-non-decreasing) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3738-make-array-non-decreasing](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3738-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
