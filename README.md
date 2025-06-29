@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 ## String
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+## Recursion
+|  |
+| ------- |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [3843-partition-array-into-two-equal-product-subsets](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3843-partition-array-into-two-equal-product-subsets) |
 <!---LeetCode Topics End-->
