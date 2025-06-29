@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3732-calculate-score-after-performing-instructions](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3812-smallest-palindromic-rearrangement-i) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Counting Sort
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3738-make-array-non-decreasing](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3738-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/yubingex007-a11y/leetcode_drill/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Heap (Priority Queue)
 |  |
